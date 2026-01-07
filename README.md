@@ -39,5 +39,11 @@ $$
 2. 如果尝试解密后等于 `IMPM`，则认为是加密文件，执行全量解密。
 3. 其他情况视为未知格式，予以忽略。
 
+### 警告 / WARNING
+此项目不会提供有关游戏`Prodigy Racing`的任何文件与相关资源
+
+Any resorces of `Prodigy Racing` are not provided
+
+
 ---
 *Created by Ripo_2006*
